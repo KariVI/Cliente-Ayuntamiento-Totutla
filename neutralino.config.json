@@ -1,0 +1,20 @@
+{
+  "applicationId": "com.tuapp.archivoayuntamiento",
+  "port": 0,
+  "defaultMode": "window",
+  "documentRoot": "/archivo-ayuntamiento/dist",
+  "url": "/",
+  "enableServer": true,
+  "enableNativeAPI": true,
+  "modes": {
+    "window": {
+      "title": "Archivo Ayuntamiento",
+      "width": 1000,
+      "height": 800
+    }
+  },
+  "cli": {
+    "binaryName": "archivo-ayuntamiento",
+    "resourcesPath": "/archivo-ayuntamiento/dist/"
+  }
+}
